@@ -1,0 +1,12 @@
+body{
+  background-color: rgb(99, 194, 238);
+}
+.cont{
+  font-size: 30px;
+  margin-left: 220px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.inc{
+  width: 70px;
+  height: 70px;
+}
